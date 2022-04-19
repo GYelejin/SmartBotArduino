@@ -4,7 +4,6 @@
 .vscode/launch.json
 .vscode/ipch
 include/README
-src/main.cpp
 test/README
 lib/README
 .vscode/extensions.json
